@@ -1,0 +1,13 @@
+anyq
+bsonq
+csvq
+iniq
+jsonq
+msgpackq
+tomlq
+xmlq
+yamlq
+*.csv
+*.ini
+*.json
+NOTES.md
